@@ -1,0 +1,19 @@
+header {
+  background-color: #000;
+}
+
+body {
+  font-size: 30px;
+}
+
+body div {
+  font-size: 10px;
+}
+
+body h1 {
+  color: #fff;
+}
+
+.red {
+  color: red;
+}

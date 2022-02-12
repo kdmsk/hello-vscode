@@ -1,0 +1,33 @@
+@import "_header";
+
+body {
+  font-size: 30px;
+  div {
+    font-size: 10px;
+  }
+  h1 {
+    color: #fff;
+  }
+}
+
+.block {
+   // .block__item
+   &__item {
+   }
+   // .block__
+   &__ {
+   }
+   // .block__--
+   &__-- {
+   }
+}
+
+.red {
+   color: red;
+}
+
+@media (max-width: 767px) {
+   .red {
+      color: green;
+   }
+}
